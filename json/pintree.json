@@ -5,13 +5,6 @@
     "title": "书签栏",
     "children": [
       {
-        "type": "link",
-        "addDate": 1601382987852,
-        "title": "Gmail",
-        "icon": "https://logo.clearbit.com/accounts.google.com",
-        "url": "https://accounts.google.com/b/0/AddMailService"
-      },
-      {
         "type": "folder",
         "addDate": 1678073011945,
         "title": "Web3",
@@ -25,10 +18,17 @@
           },
           {
             "type": "link",
-            "addDate": 1678087481551,
-            "title": "Discord-Kalman",
-            "icon": "https://logo.clearbit.com/discord.com",
-            "url": "https://discord.com/channels/1082193173826248715/1082193173826248718"
+            "addDate": 1721833348583,
+            "title": "Moo Market: Leading Decentralized P2P Trading Platform",
+            "icon": "https://logo.clearbit.com/moomarket.com",
+            "url": "https://moomarket.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721834227541,
+            "title": "ORA",
+            "icon": "https://logo.clearbit.com/www.ora.io",
+            "url": "https://www.ora.io/"
           }
         ]
       },
@@ -134,6 +134,20 @@
             "title": "快速免费和ChatGPT机器人快速学习代码!- 简单的比喻聊天 | FlowGPT",
             "icon": "https://logo.clearbit.com/flowgpt.com",
             "url": "https://flowgpt.com/zh-CN/chat/76BLahioCG2jd6JMym5VO"
+          },
+          {
+            "type": "link",
+            "addDate": 1721833307764,
+            "title": "DeepSeek | 深度求索",
+            "icon": "https://logo.clearbit.com/www.deepseek.com",
+            "url": "https://www.deepseek.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721833535288,
+            "title": "v0 by Vercel",
+            "icon": "https://logo.clearbit.com/v0.dev",
+            "url": "https://v0.dev/"
           }
         ]
       },
@@ -148,13 +162,20 @@
             "title": "Common Words: 1000 of the most used words in English --- 常用词：英语中最常用的1000个单词",
             "icon": "https://logo.clearbit.com/gonaturalenglish.com",
             "url": "https://gonaturalenglish.com/1000-most-common-words-in-the-english-language/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721833817539,
+            "title": "语法俱乐部",
+            "icon": "https://logo.clearbit.com/llwslc.github.io",
+            "url": "https://llwslc.github.io/grammar-club/"
           }
         ]
       },
       {
         "type": "folder",
         "addDate": 1678173088322,
-        "title": "周刊",
+        "title": "灵感&周刊",
         "children": [
           {
             "type": "link",
@@ -183,56 +204,28 @@
             "title": "懒人的数字生活",
             "icon": "https://logo.clearbit.com/quail.ink",
             "url": "https://quail.ink/digital-life"
+          },
+          {
+            "type": "link",
+            "addDate": 1719281718347,
+            "title": "Toolfolio",
+            "icon": "https://logo.clearbit.com/toolfolio.io",
+            "url": "https://toolfolio.io/"
+          },
+          {
+            "type": "link",
+            "addDate": 1711766300006,
+            "title": "SEESAW ✦ 设计灵感",
+            "icon": "https://logo.clearbit.com/www.seesaw.website",
+            "url": "https://www.seesaw.website/"
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1711766300006,
-        "title": "SEESAW ✦ 设计灵感",
-        "icon": "https://logo.clearbit.com/www.seesaw.website",
-        "url": "https://www.seesaw.website/"
-      },
-      {
-        "type": "link",
-        "addDate": 1711943064913,
-        "title": "Appinspo - App视觉界面设计灵感的最新趋势",
-        "icon": "https://logo.clearbit.com/www.appinspo.com",
-        "url": "https://www.appinspo.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1712457774475,
-        "title": "Profile Page - Imggen AI",
-        "icon": "https://logo.clearbit.com/imggen.ai",
-        "url": "https://imggen.ai/app/profile"
-      },
-      {
-        "type": "link",
-        "addDate": 1712632653369,
-        "title": "Randoma11y - Accessible color combinations",
-        "icon": "https://logo.clearbit.com/randoma11y.com",
-        "url": "https://randoma11y.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1715135437192,
-        "title": "Logo System - Explore 400+ logo designs",
-        "icon": "https://logo.clearbit.com/logosystem.co",
-        "url": "https://logosystem.co/"
       },
       {
         "type": "folder",
         "addDate": 1715699724849,
         "title": "nice",
         "children": [
-          {
-            "type": "link",
-            "addDate": 1715699934002,
-            "title": "Bento Grids",
-            "icon": "https://logo.clearbit.com/bentogrids.com",
-            "url": "https://bentogrids.com/"
-          },
           {
             "type": "link",
             "addDate": 1715700667218,
@@ -249,27 +242,6 @@
           },
           {
             "type": "link",
-            "addDate": 1715704840810,
-            "title": "interface.watch | A growing library of WatchOS user interfaces (UIs)",
-            "icon": "https://logo.clearbit.com/www.interface.watch",
-            "url": "https://www.interface.watch/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715705006046,
-            "title": "uilabs",
-            "icon": "https://logo.clearbit.com/www.uilabs.dev",
-            "url": "https://www.uilabs.dev/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715705538412,
-            "title": "Design Engineer Jobs",
-            "icon": "https://logo.clearbit.com/designengineer.io",
-            "url": "https://designengineer.io/"
-          },
-          {
-            "type": "link",
             "addDate": 1715705630184,
             "title": "Globe Explorer",
             "icon": "https://logo.clearbit.com/explorer.globe.engineer",
@@ -277,66 +249,10 @@
           },
           {
             "type": "link",
-            "addDate": 1716022050976,
-            "title": "Fontshare: Quality Fonts. Free.",
-            "icon": "https://logo.clearbit.com/fontshare.com",
-            "url": "https://fontshare.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1718243321379,
-            "title": "uicolors.app/create",
-            "icon": "https://logo.clearbit.com/uicolors.app",
-            "url": "https://uicolors.app/create"
-          },
-          {
-            "type": "link",
-            "addDate": 1718764635620,
-            "title": "Magic UI",
-            "icon": "https://logo.clearbit.com/magicui.design",
-            "url": "https://magicui.design/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719281120274,
-            "title": "MagicPattern - Beautiful & cool backgrounds with 10+ tools!",
-            "icon": "https://logo.clearbit.com/www.magicpattern.design",
-            "url": "https://www.magicpattern.design/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719281160535,
-            "title": "Breaking Medium paywall! - Freedium",
-            "icon": "https://logo.clearbit.com/freedium.cfd",
-            "url": "https://freedium.cfd/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719281353597,
-            "title": "Aceternity UI",
-            "icon": "https://logo.clearbit.com/ui.aceternity.com",
-            "url": "https://ui.aceternity.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1719281451243,
-            "title": "cult/ui",
-            "icon": "https://logo.clearbit.com/www.cult-ui.com",
-            "url": "https://www.cult-ui.com/"
-          },
-          {
-            "type": "link",
             "addDate": 1719281611126,
             "title": "INDIE HACKERS",
             "icon": "https://logo.clearbit.com/www.indiehackers.site",
             "url": "https://www.indiehackers.site/en/group/design/category/ui-component"
-          },
-          {
-            "type": "link",
-            "addDate": 1719281718347,
-            "title": "Toolfolio",
-            "icon": "https://logo.clearbit.com/toolfolio.io",
-            "url": "https://toolfolio.io/"
           },
           {
             "type": "link",
@@ -354,173 +270,12 @@
           },
           {
             "type": "link",
-            "addDate": 1721614637555,
-            "title": "One Page Love - One Page Website Inspiration and Templates",
-            "icon": "https://logo.clearbit.com/onepagelove.com",
-            "url": "https://onepagelove.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721614658041,
-            "title": "App Motion - Mobile motion design gallery",
-            "icon": "https://logo.clearbit.com/appmotion.design",
-            "url": "https://appmotion.design/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721614669368,
-            "title": "Home | The Component Gallery",
-            "icon": "https://logo.clearbit.com/component.gallery",
-            "url": "https://component.gallery/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721614748154,
-            "title": "Background Remover: Remove BG Online for Free",
-            "icon": "https://logo.clearbit.com/www.ifoto.ai",
-            "url": "https://www.ifoto.ai/free-background-remover?channel=X0717"
-          },
-          {
-            "type": "link",
-            "addDate": 1721614766303,
-            "title": "Endless — Design as a Subscription",
-            "icon": "https://logo.clearbit.com/endless.design",
-            "url": "https://endless.design/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721614895704,
-            "title": "Free Figma Component Library | Figcomponents",
-            "icon": "https://logo.clearbit.com/www.figcomponents.com",
-            "url": "https://www.figcomponents.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721722622629,
-            "title": "realvjy's figma plugins",
-            "icon": "https://logo.clearbit.com/www.figmaplug.in",
-            "url": "https://www.figmaplug.in/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833228896,
-            "title": "Tailwind CSS buttons",
-            "icon": "https://logo.clearbit.com/ui.aceternity.com",
-            "url": "https://ui.aceternity.com/components/tailwindcss-buttons"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833307764,
-            "title": "DeepSeek | 深度求索",
-            "icon": "https://logo.clearbit.com/www.deepseek.com",
-            "url": "https://www.deepseek.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833348583,
-            "title": "Moo Market: Leading Decentralized P2P Trading Platform",
-            "icon": "https://logo.clearbit.com/moomarket.com",
-            "url": "https://moomarket.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833437950,
-            "title": "Refero — design references for your next project",
-            "icon": "https://logo.clearbit.com/refero.design",
-            "url": "https://refero.design/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833508706,
-            "title": "3D Card Effect",
-            "icon": "https://logo.clearbit.com/ui.aceternity.com",
-            "url": "https://ui.aceternity.com/components/3d-card-effect"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833535288,
-            "title": "v0 by Vercel",
-            "icon": "https://logo.clearbit.com/v0.dev",
-            "url": "https://v0.dev/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833550031,
-            "title": "San Francisco · PamPam",
-            "icon": "https://logo.clearbit.com/www.pampam.city",
-            "url": "https://www.pampam.city/p/V4tf6PqbUgsmTjhiTgHy"
-          },
-          {
-            "type": "link",
             "addDate": 1721833572504,
             "title": "Buttons overview - animata",
             "icon": "https://logo.clearbit.com/animata.design",
             "url": "https://animata.design/docs/button"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833585727,
-            "title": "Neon Serverless Postgres — Ship faster",
-            "icon": "https://logo.clearbit.com/neon.tech",
-            "url": "https://neon.tech/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833618893,
-            "title": "orb: discover fun in web3",
-            "icon": "https://logo.clearbit.com/orb.club",
-            "url": "https://orb.club/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833643164,
-            "title": "Bento - A Link in Bio, but Rich and Beautiful.",
-            "icon": "https://logo.clearbit.com/bento.me",
-            "url": "https://bento.me/en/home"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833755772,
-            "title": "Thinkbuddy - A MacOS Interface of AI",
-            "icon": "https://logo.clearbit.com/thinkbuddy.ai",
-            "url": "https://thinkbuddy.ai/?utm_source=twitter&utm_medium=paid_social&utm_campaign=AWA_COM_FLA&utm_content=ad3&twclid=27j5otwnup2tbpp1uduu526piz"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833817539,
-            "title": "语法俱乐部",
-            "icon": "https://logo.clearbit.com/llwslc.github.io",
-            "url": "https://llwslc.github.io/grammar-club/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833915300,
-            "title": "Raycast - Your shortcut to everything",
-            "icon": "https://logo.clearbit.com/www.raycast.com",
-            "url": "https://www.raycast.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721834227541,
-            "title": "ORA",
-            "icon": "https://logo.clearbit.com/www.ora.io",
-            "url": "https://www.ora.io/"
-          },
-          {
-            "type": "link",
-            "addDate": 1716346661310,
-            "title": "refto - 释放无限的灵感，拥抱纯粹的简洁",
-            "icon": "https://logo.clearbit.com/refto.one",
-            "url": "https://refto.one/"
           }
         ]
-      },
-      {
-        "type": "link",
-        "addDate": 1717337137440,
-        "title": "No-Code Supply Co <> Hand-picked Digital Inspiration and Resources",
-        "icon": "https://logo.clearbit.com/www.nocodesupply.co",
-        "url": "https://www.nocodesupply.co/"
       },
       {
         "type": "folder",
@@ -534,10 +289,10 @@
             "children": [
               {
                 "type": "link",
-                "addDate": 1717337596482,
+                "addDate": 1716022050976,
                 "title": "Fontshare: Quality Fonts. Free.",
-                "icon": "https://logo.clearbit.com/www.fontshare.com",
-                "url": "https://www.fontshare.com/"
+                "icon": "https://logo.clearbit.com/fontshare.com",
+                "url": "https://fontshare.com/"
               }
             ]
           },
@@ -545,7 +300,15 @@
             "type": "folder",
             "addDate": 1721834565090,
             "title": "标志参考",
-            "children": []
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715135437192,
+                "title": "Logo System - Explore 400+ logo designs",
+                "icon": "https://logo.clearbit.com/logosystem.co",
+                "url": "https://logosystem.co/"
+              }
+            ]
           },
           {
             "type": "folder",
@@ -584,10 +347,346 @@
                     "title": "Prettyfolio",
                     "icon": "https://logo.clearbit.com/prettyfolio.com",
                     "url": "https://prettyfolio.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1715705538412,
+                    "title": "Design Engineer Jobs",
+                    "icon": "https://logo.clearbit.com/designengineer.io",
+                    "url": "https://designengineer.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1721722622629,
+                    "title": "realvjy's figma plugins",
+                    "icon": "https://logo.clearbit.com/www.figmaplug.in",
+                    "url": "https://www.figmaplug.in/"
                   }
                 ]
+              },
+              {
+                "type": "link",
+                "addDate": 1721835365632,
+                "title": "OGimage.gallery | Literal OG Image from Jul 08, 2024",
+                "icon": "https://logo.clearbit.com/www.ogimage.gallery",
+                "url": "https://www.ogimage.gallery/og-images/literal"
+              },
+              {
+                "type": "link",
+                "addDate": 1715704840810,
+                "title": "WatchOS 界面参考",
+                "icon": "https://logo.clearbit.com/www.interface.watch",
+                "url": "https://www.interface.watch/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718764635620,
+                "title": "Magic UI",
+                "icon": "https://logo.clearbit.com/magicui.design",
+                "url": "https://magicui.design/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721835909689,
+                "title": "New | Indie Hackers Site - Discover Top Products for Efficient Indie Hacking",
+                "icon": "https://logo.clearbit.com/www.indiehackers.site",
+                "url": "https://www.indiehackers.site/en/group/new"
+              },
+              {
+                "type": "link",
+                "addDate": 1721836027779,
+                "title": "Curated web design inspiration catalog",
+                "icon": "https://logo.clearbit.com/www.curated.design",
+                "url": "https://www.curated.design/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721614637555,
+                "title": "One Page Love - One Page Website Inspiration and Templates",
+                "icon": "https://logo.clearbit.com/onepagelove.com",
+                "url": "https://onepagelove.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721836079694,
+                "title": "App Motion - Mobile motion design gallery",
+                "icon": "https://logo.clearbit.com/appmotion.design",
+                "url": "https://appmotion.design/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721614766303,
+                "title": "Endless — Design as a Subscription",
+                "icon": "https://logo.clearbit.com/endless.design",
+                "url": "https://endless.design/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721833437950,
+                "title": "Refero — design references for your next project",
+                "icon": "https://logo.clearbit.com/refero.design",
+                "url": "https://refero.design/"
+              },
+              {
+                "type": "link",
+                "addDate": 1716346661310,
+                "title": "refto - 释放无限的灵感，拥抱纯粹的简洁",
+                "icon": "https://logo.clearbit.com/refto.one",
+                "url": "https://refto.one/"
+              },
+              {
+                "type": "link",
+                "addDate": 1711943064913,
+                "title": "Appinspo - App视觉界面设计灵感的最新趋势",
+                "icon": "https://logo.clearbit.com/www.appinspo.com",
+                "url": "https://www.appinspo.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1717337137440,
+                "title": "No-Code Supply Co <> Hand-picked Digital Inspiration and Resources",
+                "icon": "https://logo.clearbit.com/www.nocodesupply.co",
+                "url": "https://www.nocodesupply.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1715699934002,
+                "title": "Bento Grids",
+                "icon": "https://logo.clearbit.com/bentogrids.com",
+                "url": "https://bentogrids.com/"
               }
             ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721836306910,
+            "title": "创意参考",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721833550031,
+                "title": "San Francisco · PamPam",
+                "icon": "https://logo.clearbit.com/www.pampam.city",
+                "url": "https://www.pampam.city/p/V4tf6PqbUgsmTjhiTgHy"
+              },
+              {
+                "type": "link",
+                "addDate": 1721833585727,
+                "title": "Neon Serverless Postgres — Ship faster",
+                "icon": "https://logo.clearbit.com/neon.tech",
+                "url": "https://neon.tech/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721833618893,
+                "title": "orb: discover fun in web3",
+                "icon": "https://logo.clearbit.com/orb.club",
+                "url": "https://orb.club/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721833755772,
+                "title": "Thinkbuddy - A MacOS Interface of AI",
+                "icon": "https://logo.clearbit.com/thinkbuddy.ai",
+                "url": "https://thinkbuddy.ai/?utm_source=twitter&utm_medium=paid_social&utm_campaign=AWA_COM_FLA&utm_content=ad3&twclid=27j5otwnup2tbpp1uduu526piz"
+              },
+              {
+                "type": "link",
+                "addDate": 1721833915300,
+                "title": "Raycast - Your shortcut to everything",
+                "icon": "https://logo.clearbit.com/www.raycast.com",
+                "url": "https://www.raycast.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1712632653369,
+                "title": "Randoma11y - Accessible color combinations",
+                "icon": "https://logo.clearbit.com/randoma11y.com",
+                "url": "https://randoma11y.com/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721835416224,
+        "title": "工具插件",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1721835428106,
+            "title": "网页插件",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721835441295,
+                "title": "Shader Gradient",
+                "icon": "https://logo.clearbit.com/www.shadergradient.co",
+                "url": "https://www.shadergradient.co/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719281120274,
+                "title": "MagicPattern - Beautiful & cool backgrounds with 10+ tools!",
+                "icon": "https://logo.clearbit.com/www.magicpattern.design",
+                "url": "https://www.magicpattern.design/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721835438588,
+            "title": "Figma 插件",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721614895704,
+                "title": "Free Figma Component Library | Figcomponents",
+                "icon": "https://logo.clearbit.com/www.figcomponents.com",
+                "url": "https://www.figcomponents.com/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721835691378,
+            "title": "色彩插件",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1718243321379,
+                "title": "uicolors.app/create",
+                "icon": "https://logo.clearbit.com/uicolors.app",
+                "url": "https://uicolors.app/create"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721835777968,
+            "title": "工具",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1719281160535,
+                "title": "Breaking Medium paywall! - Freedium",
+                "icon": "https://logo.clearbit.com/freedium.cfd",
+                "url": "https://freedium.cfd/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1721835990079,
+            "title": "插画",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1721836001276,
+                "title": "A beautiful svg library with free illustration - Vectorcraftr",
+                "icon": "https://logo.clearbit.com/vectorcraftr.com",
+                "url": "https://vectorcraftr.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1721614669368,
+            "title": "Home | The Component Gallery",
+            "icon": "https://logo.clearbit.com/component.gallery",
+            "url": "https://component.gallery/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721614748154,
+            "title": "Background Remover: Remove BG Online for Free",
+            "icon": "https://logo.clearbit.com/www.ifoto.ai",
+            "url": "https://www.ifoto.ai/free-background-remover?channel=X0717"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721835537251,
+        "title": "Program",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1721835558121,
+            "title": "前端界面",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1715705006046,
+                "title": "uilabs",
+                "icon": "https://logo.clearbit.com/www.uilabs.dev",
+                "url": "https://www.uilabs.dev/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719281353597,
+                "title": "Aceternity UI",
+                "icon": "https://logo.clearbit.com/ui.aceternity.com",
+                "url": "https://ui.aceternity.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719281451243,
+                "title": "cult/ui",
+                "icon": "https://logo.clearbit.com/www.cult-ui.com",
+                "url": "https://www.cult-ui.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1721833228896,
+                "title": "Tailwind CSS buttons",
+                "icon": "https://logo.clearbit.com/ui.aceternity.com",
+                "url": "https://ui.aceternity.com/components/tailwindcss-buttons"
+              },
+              {
+                "type": "link",
+                "addDate": 1721833508706,
+                "title": "3D Card Effect",
+                "icon": "https://logo.clearbit.com/ui.aceternity.com",
+                "url": "https://ui.aceternity.com/components/3d-card-effect"
+              },
+              {
+                "type": "link",
+                "addDate": 1721836323758,
+                "title": "animata",
+                "icon": "https://logo.clearbit.com/animata.design",
+                "url": "https://animata.design/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1721835171665,
+        "title": "Personal",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1721835174230,
+            "title": "KalmanDesign/pintree: An intuitive tool for managing and exporting your local bookmarks into a shareable website.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/KalmanDesign/pintree"
+          },
+          {
+            "type": "link",
+            "addDate": 1601382987852,
+            "title": "Gmail",
+            "icon": "https://logo.clearbit.com/accounts.google.com",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+          },
+          {
+            "type": "link",
+            "addDate": 1721833643164,
+            "title": "Bento - A Link in Bio, but Rich and Beautiful.",
+            "icon": "https://logo.clearbit.com/bento.me",
+            "url": "https://bento.me/en/home"
           }
         ]
       }
