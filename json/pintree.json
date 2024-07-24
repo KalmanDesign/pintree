@@ -223,62 +223,6 @@
       },
       {
         "type": "folder",
-        "addDate": 1715699724849,
-        "title": "nice",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1715700667218,
-            "title": "OGimage.gallery | The finest hand-picked OG Images ✨",
-            "icon": "https://logo.clearbit.com/www.ogimage.gallery",
-            "url": "https://www.ogimage.gallery/"
-          },
-          {
-            "type": "link",
-            "addDate": 1715703683136,
-            "title": "t.co/oL4YzGOUe5",
-            "icon": "https://logo.clearbit.com/t.co",
-            "url": "https://t.co/oL4YzGOUe5"
-          },
-          {
-            "type": "link",
-            "addDate": 1715705630184,
-            "title": "Globe Explorer",
-            "icon": "https://logo.clearbit.com/explorer.globe.engineer",
-            "url": "https://explorer.globe.engineer/search?qd=%5B%7B%22searchbox_query%22%3A%22LearnSwiftUI%20%22%2C%22search_id%22%3A%2209dbcc1b-b190-462d-bfe4-7b6d3e5101a4%22%2C%22index%22%3A0%2C%22type%22%3A%22initial_searchbox%22%2C%22clicked_category%22%3Anull%2C%22staged_image%22%3Anull%7D%5D&sid=09dbcc1b-b190-462d-bfe4-7b6d3e5101a4"
-          },
-          {
-            "type": "link",
-            "addDate": 1719281611126,
-            "title": "INDIE HACKERS",
-            "icon": "https://logo.clearbit.com/www.indiehackers.site",
-            "url": "https://www.indiehackers.site/en/group/design/category/ui-component"
-          },
-          {
-            "type": "link",
-            "addDate": 1719815977899,
-            "title": "404 illustration - vectorcraftr",
-            "icon": "https://logo.clearbit.com/vectorcraftr.com",
-            "url": "https://vectorcraftr.com/directory/404"
-          },
-          {
-            "type": "link",
-            "addDate": 1721614625074,
-            "title": "Curated web design inspiration catalog",
-            "icon": "https://logo.clearbit.com/www.curated.design",
-            "url": "https://www.curated.design/?category=web3"
-          },
-          {
-            "type": "link",
-            "addDate": 1721833572504,
-            "title": "Buttons overview - animata",
-            "icon": "https://logo.clearbit.com/animata.design",
-            "url": "https://animata.design/docs/button"
-          }
-        ]
-      },
-      {
-        "type": "folder",
         "addDate": 1721834458685,
         "title": "Design",
         "children": [
